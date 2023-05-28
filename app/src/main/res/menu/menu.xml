@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_p"
+        android:title="Home"
+        android:icon="@drawable/home_24"/>
+
+    <item
+        android:id="@+id/profile_p"
+        android:title="profile"
+        android:icon="@drawable/profile_person_24"/>
+
+    <item
+        android:id="@+id/articles_p"
+        android:title="Article"
+        android:icon="@drawable/article_keyboard_hide_24"/>
+
+
+    <item
+        android:id="@+id/list_p"
+        android:title="Follow List"
+        android:icon="@drawable/list_format_list_bulleted_24"/>
+
+    <item
+        android:id="@+id/chat_p"
+        android:title="Chat"
+        android:icon="@drawable/baseline_mark_chat_unread_24"/>
+
+
+</menu>
